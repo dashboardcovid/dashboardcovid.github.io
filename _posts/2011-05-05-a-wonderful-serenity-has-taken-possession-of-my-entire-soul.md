@@ -2,9 +2,7 @@
 date: 2018-07-20 12:26:40
 layout: post
 title: Secretaria de Estado de Saúde de Minas Gerais DISTRIBUIÇÃO DOS CASOS DE COVID-19
-
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+subtitle: Trata-se de uma dashboard a nível estadual, onde são disponibilizados dados referentes à Minas Gerais.
 image: https://image.freepik.com/fotos-gratis/bandeira-do-brasil-ruffled-beautifully-waving-macro-close-up-shot_1379-242.jpg
 optimized_image: https://image.freepik.com/fotos-gratis/bandeira-do-brasil-ruffled-beautifully-waving-macro-close-up-shot_1379-242.jpg
 category: Nacional

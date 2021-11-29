@@ -2,8 +2,7 @@
 date: 2017-08-14 22:55:45
 layout: post
 title: UFRGS
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+subtitle: LTraz informações de âmbito nacional, disponibilizada pela UFRGS, tendo como objetivo principal desenvolver painéis e ferramentas para apoiar a análise visual dos dados do Coronavírus.
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme2_ylcxxz.jpg
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme2_ylcxxz.jpg
 category: css

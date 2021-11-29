@@ -2,7 +2,7 @@
 date: 2021-11-25 12:26:40 
 layout: post
 title: Brazil WHO Coronavirus (COVID-19) Dashboard
-subtitle: tese
+subtitle: De modo geral, é apresentada a quantidade de casos, mortalidade, e os são apresentados os casos confirmados por regiões, território ou país. Já em medidas, são apresentado dados sobre  Saúde pública e medidas sociais (PHSM) em uso.
 image: https://leblogdoperol.com/wp-content/uploads/2021/04/0a009090ba_50175222_variant-bresilen-covid-coronavirus-e1618879339188-1024x682.jpeg
 optimized_image: https://leblogdoperol.com/wp-content/uploads/2021/04/0a009090ba_50175222_variant-bresilen-covid-coronavirus-e1618879339188-1024x682.jpeg
 category: life

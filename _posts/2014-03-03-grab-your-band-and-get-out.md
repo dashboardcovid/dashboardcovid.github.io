@@ -1,9 +1,8 @@
 ---
 date: 2017-05-11 12:00:00
 layout: post
-title: Grab your band and get out
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+title: Laboratório de Estudos Espaciais do Centro de Pesquisas Computacionais.
+subtitle: LEssa dashboard trata dos Números da Vacinação contra COVID-19 no Brasil. Nela encontramos dados sobre um gráfico interativo, além de dados como, quem recebeu somente uma dose, as duas, as três, dose única, doses distribuídas, doses disponibilizadas e doses administradas.
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559824822/theme15_oqsl4z.jpg
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559824822/theme15_oqsl4z.jpg
 category: music
