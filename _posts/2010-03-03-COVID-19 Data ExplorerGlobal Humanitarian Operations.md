@@ -4,7 +4,7 @@ layout: post
 title: COVID-19 Data Explorer:Global Humanitarian Operations
 subtitle: Essa dashboard é a nível internacional.
 image: https://data.humdata.org/visualization/covid19-humanitarian-operations/assets/logo-ocha-blue.png
-optimized_image:https://data.humdata.org/visualization/covid19-humanitarian-operations/assets/logo-ocha-blue.png
+optimized_image: https://data.humdata.org/visualization/covid19-humanitarian-operations/assets/logo-ocha-blue.png
 category: life
 tags:
   - books
