@@ -1,7 +1,7 @@
 ---
 date: 2017-07-29 13:24:49
 layout: post
-title: gov br
+title: gov brs
 O governo disponibilizou um painel interativo referente à compras relacionadas à COVID-19.
 image: https://image.shutterstock.com/image-photo/may-19-2021-brazil-this-600w-1975824899.jpg
 optimized_image: https://image.shutterstock.com/image-photo/may-19-2021-brazil-this-600w-1975824899.jpg
