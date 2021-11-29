@@ -5,16 +5,17 @@ title: Worldometer
 subtitle: São trabalhados dados internacionais, apresentando casos confirmados, mortes e recuperados, casos abertos, casos fechados, casos relatados e mortes por país ou território, além de atualizações de novos casos e mortes nos países.
 image: https://pbs.twimg.com/profile_images/692017015872167940/1fnJPzxM_400x400.png
 optimized_image: https://pbs.twimg.com/profile_images/692017015872167940/1fnJPzxM_400x400.png
-category: life
+category: Mortalidade
 tags:
-  - books
-  - nacuinal
+  - Mortalidade
+  - Vacinação
 author: thiagorossener
 paginate: true
 ---
-<!--page-->
+Para acessar basta clicar [AQUI](https://www.worldometers.info/coronavirus/).
 
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
+![placeholder](https://www.msdmanuals.com/-/media/manual/covid-images/worldometer.jpg "Large example image")
+
 
 
 

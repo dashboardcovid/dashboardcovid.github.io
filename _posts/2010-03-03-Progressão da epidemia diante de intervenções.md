@@ -5,142 +5,15 @@ title: Progressão da epidemia diante de intervenções
 subtitle: Esta dashboards nos dá a possibilidade de explorar os diferentes parâmetros que governam a progressão, identificar como esses parâmetros afetam o número de infectados ao longo do tempo, além de ser possível fazer simulações
 image: https://www.alass.org/wp-content/uploads/COVID-19-2.jpg
 optimized_image: https://www.alass.org/wp-content/uploads/COVID-19-2.jpg
-category: life
+category: Subnotificação
 tags:
-  - books
-  - read
+  - Subnotificação
 author: thiagorossener
 paginate: true
 ---
 
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+Sendo os valores iniciais dos parâmetros são compatíveis com a COVID19, e as projeções iniciam com o aparecimento do primeiro indivíduo infectado.
+ [AQUI](http://miba-srv01.nuvem.ufrgs.br:8080/shiny/simcovid19/).
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
-
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
-
-<!--page-->
-
-## Inline HTML elements
-
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
-
-- **To bold text**, use `<strong>`.
-- *To italicize text*, use `<em>`.
-- Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
-- Citations, like <cite>&mdash; Thiago Rossener</cite>, should use `<cite>`.
-- <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
-- Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
-
-Most of these elements are styled by browsers with few modifications on our part.
-
-<!--page-->
-
-# Heading 1
-
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
-
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-
-## Code
-
-Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
-
-```js
-// Example can be run directly in your JavaScript console
-
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
-
-// Call the function
-adder(2, 6);
-// > 8
-```
-
-<!--page-->
-
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
-
-## Lists
-
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-* Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-* Donec id elit non mi porta gravida at eget metus.
-* Nulla vitae elit libero, a pharetra augue.
-
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
-
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3. Maecenas sed diam eget risus varius blandit sit amet non magna.
-
-<!--page-->
-
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
-
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
-
-## Images
-
-Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
-
-![placeholder](https://placehold.it/800x400 "Large example image")
-![placeholder](https://placehold.it/400x200 "Medium example image")
-![placeholder](https://placehold.it/200x200 "Small example image")
-
-## Tables
-
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <td>Totals</td>
-      <td>21</td>
-      <td>23</td>
-    </tr>
-  </tfoot>
-  <tbody>
-    <tr>
-      <td>Alice</td>
-      <td>10</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>Bob</td>
-      <td>4</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>Charlie</td>
-      <td>7</td>
-      <td>9</td>
-    </tr>
-  </tbody>
-</table>
-
-<!--page-->
-
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
-
-
-
-
-
-
-
-
-
+![placeholder](data:image/png;base64,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 "Large example image")
 

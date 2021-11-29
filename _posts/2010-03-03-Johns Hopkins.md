@@ -14,15 +14,18 @@ author: thiagorossener
 paginate: true
 ---
 
-Nesta, são apresentados dados como:
-Global Confirmado
-Mortes Globais
-EUA confirmados
-Mortes nos Estados Unidos
-Mapa Global
-Para acessar basta clicar [AQUI](https://coronavirus.jhu.edu/map.html).
+informações como:
+Monitoramento
+Análises
+Modelos de predição
+Ferramentas para o acompanhamento
+Artigos Científicos
+Notas sobre a pandemia
+Informações úteis
+Saiu na mídia
+ [AQUI](https://ciis.fmrp.usp.br/covid19/).
 
-![placeholder](https://www.gislounge.com/wp-content/uploads/2020/04/covid-19-map-johns-hopkins-1.png "Large example image")
+![placeholder](https://coronavirus.ceara.gov.br/wp-content/uploads/2020/04/HC-FMUSP-1080x759.png "Large example image")
 
 
 

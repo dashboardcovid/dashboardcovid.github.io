@@ -15,7 +15,7 @@ paginate: true
 
 Para acessar basta clicar [AQUI](https://www.tesourotransparente.gov.br/visualizacao/painel-de-monitoramentos-dos-gastos-com-covid-19).
 
-![placeholder](https://www.saude.go.gov.br/images/Layout%20Corona/destaques_painelcovid_ses.png "Large example image")(https://www.tesourotransparente.gov.br/visualizacao/painel-de-monitoramentos-dos-gastos-com-covid-19)
+![placeholder](https://www.saude.go.gov.br/images/Layout%20Corona/destaques_painelcovid_ses.png "Large example image")
 
 
 
