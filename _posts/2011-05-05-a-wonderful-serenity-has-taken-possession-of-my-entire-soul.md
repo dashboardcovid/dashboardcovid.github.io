@@ -5,8 +5,8 @@ title: Secretaria de Estado de Saúde de Minas Gerais DISTRIBUIÇÃO DOS CASOS D
 
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559820489/js-code_n83m7a.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559820489/js-code_n83m7a.jpg
+image: https://image.freepik.com/fotos-gratis/bandeira-do-brasil-ruffled-beautifully-waving-macro-close-up-shot_1379-242.jpg
+optimized_image: https://image.freepik.com/fotos-gratis/bandeira-do-brasil-ruffled-beautifully-waving-macro-close-up-shot_1379-242.jpg
 category: Nacional
 tags:
   - Nacional
