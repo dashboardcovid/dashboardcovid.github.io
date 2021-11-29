@@ -3,8 +3,8 @@ date: 2018-11-22 12:26:40
 layout: post
 title: Painel Interativo de MG
 subtitle: Trata-se de uma dashboard a nível estadual, onde são disponibilizados dados referentes à Minas Gerais.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822138/theme9_v273a9.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559822138/theme9_v273a9.jpg
+image: https://www.barbacenamais.com.br/images/20212/0001-Covid_Minas.jpg
+optimized_image: https://www.barbacenamais.com.br/images/20212/0001-Covid_Minas.jpg
 category: life
 tags:
   - books
