@@ -5,10 +5,11 @@ title: Johns Hopkins
 subtitle: Essa dashboard,é a nível internacional, sendo sua fonte Johns Hopkins.
 image: https://d3043uog1ad1l6.cloudfront.net/uploads/2020/05/jhons-hopkins.jpg
 optimized_image: https://d3043uog1ad1l6.cloudfront.net/uploads/2020/05/jhons-hopkins.jpg
-category: life
+category: Subnotificação
 tags:
-  - books
-  - read
+  - Subnotificação
+  - Mortalidade
+  - Vacinação
 author: thiagorossener
 paginate: true
 ---
