@@ -1,5 +1,5 @@
 ---
-date: 2018-11-22 12:26:40
+date: 2018-02-02 12:24:40
 layout: post
 title: Painel Interativo de MG
 subtitle: De modo geral, é apresentada a quantidade de casos, mortalidade, e os são apresentados os casos confirmados por regiões, território ou país. Já em medidas, são apresentado dados sobre Saúde pública e medidas sociais (PHSM) em uso.
