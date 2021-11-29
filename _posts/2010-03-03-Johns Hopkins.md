@@ -19,6 +19,7 @@ Mortes Globais
 EUA confirmados
 Mortes nos Estados Unidos
 Mapa Global
+Para acessar basta clicar [AQUI](https://coronavirus.jhu.edu/map.html).
 
 ![placeholder](https://www.gislounge.com/wp-content/uploads/2020/04/covid-19-map-johns-hopkins-1.png "Large example image")
 
