@@ -1,16 +1,15 @@
 ---
-date: 2017-07-29 13:24:49
+date: 2017-08-14 22:55:45
 layout: post
-title: Smoke alert
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559824021/theme12_e0vxlr.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559824021/theme12_e0vxlr.jpg
+title: Let flexbox work for you or perish
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-category: 'blog'
+description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme2_ylcxxz.jpg
+optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme2_ylcxxz.jpg
+category: css
 tags:
-  - jekyll
-  - wordpress
-  - blog
+  - css
+  - frontend
 author: thiagorossener
 ---
 
@@ -125,5 +124,18 @@ Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, conse
 </table>
 
 Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
