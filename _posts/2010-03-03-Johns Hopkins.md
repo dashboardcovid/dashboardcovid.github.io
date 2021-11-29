@@ -3,8 +3,8 @@ date: 2018-11-22 12:26:40
 layout: post
 title: Johns Hopkins
 subtitle: Essa dashboard,é a nível internacional, sendo sua fonte Johns Hopkins.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822138/theme9_v273a9.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559822138/theme9_v273a9.jpg
+image: https://d3043uog1ad1l6.cloudfront.net/uploads/2020/05/jhons-hopkins.jpg
+optimized_image: https://d3043uog1ad1l6.cloudfront.net/uploads/2020/05/jhons-hopkins.jpg
 category: life
 tags:
   - books

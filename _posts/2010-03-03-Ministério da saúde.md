@@ -3,8 +3,8 @@ date: 2018-11-22 12:26:40
 layout: post
 title: Ministério da saúde
 subtitle: O ministério da saúde disponibilizou uma dashboard a nível nacional, na qual são tratados assuntos referentes à vacinação, contaminação, casos recuperados e mortalidade. Além disso, há gráficos interativos informativos e informações divididas por regiões brasileiras. 
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822138/theme9_v273a9.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559822138/theme9_v273a9.jpg
+image: https://www.somiti.org.br/imagens/site/comunicacao/noticias/2020/covid-19/ms.lightbox.jpg
+optimized_image: https://www.somiti.org.br/imagens/site/comunicacao/noticias/2020/covid-19/ms.lightbox.jpg
 category: life
 tags:
   - books
