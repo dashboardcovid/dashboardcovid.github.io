@@ -2,9 +2,9 @@
 date: 2017-07-29 13:24:49
 layout: post
 title: gov br
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: https://ibb.co/wpFdkFr.jpg
-optimized_image: https://ibb.co/wpFdkFr.jpg
+O governo disponibilizou um painel interativo referente à compras relacionadas à COVID-19.
+image: https://image.shutterstock.com/image-photo/may-19-2021-brazil-this-600w-1975824899.jpg
+optimized_image: https://image.shutterstock.com/image-photo/may-19-2021-brazil-this-600w-1975824899.jpg
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 category: 'blog'
 tags:
