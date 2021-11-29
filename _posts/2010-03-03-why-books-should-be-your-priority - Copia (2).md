@@ -1,0 +1,27 @@
+---
+date: 2018-11-22 12:26:40
+layout: post
+title: Brasil io
+subtitle: Assim como outros, trabalha com informações Nacionais, como: Boletins coletados, Casos confirmados e Óbitos confirmados Além de um mapa interativo, onde pode-se ver dados referentes a municípios brasileiros.  
+image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559822138/theme9_v273a9.jpg
+optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559822138/theme9_v273a9.jpg
+category: life
+tags:
+  - books
+  - nacuinal
+author: thiagorossener
+paginate: true
+---
+<!--page-->
+
+Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
+
+
+
+
+
+
+
+
+
+
