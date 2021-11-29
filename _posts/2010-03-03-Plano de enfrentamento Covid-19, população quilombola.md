@@ -3,8 +3,8 @@ date: 2018-11-22 12:26:40
 layout: post
 title: Plano de enfrentamento Covid-19, população quilombola 
 subtitle: Esta ferramenta é destinada a tratar assuntos da COVID-19 em relação à popoulação quilombola
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822138/theme9_v273a9.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559822138/theme9_v273a9.jpg
+image: http://conaq.org.br/wp-content/uploads/2020/05/wsi-imageoptim-card-05-05.jpeg
+optimized_image: http://conaq.org.br/wp-content/uploads/2020/05/wsi-imageoptim-card-05-05.jpeg
 category: life
 tags:
   - books

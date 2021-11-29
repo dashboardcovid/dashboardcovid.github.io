@@ -3,8 +3,8 @@ date: 2018-11-22 12:26:40
 layout: post
 title: Tesouro gov br
 subtitle: Neste, é feito um Monitoramento dos Gastos da União com Combate à COVID-19 no Brasil.   
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559822138/theme9_v273a9.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559822138/theme9_v273a9.jpg
+image: https://www.govbr.com.br/wp-content/uploads/2019/01/Logo-GOVBR_fundo-branco.jpg
+optimized_image: https://www.govbr.com.br/wp-content/uploads/2019/01/Logo-GOVBR_fundo-branco.jpg
 category: life
 tags:
   - books

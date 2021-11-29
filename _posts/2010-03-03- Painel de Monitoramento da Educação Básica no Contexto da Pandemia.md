@@ -3,8 +3,8 @@ date: 2018-11-22 12:26:40
 layout: post
 title: Painel de Monitoramento da Educação Básica no Contexto da Pandemia
 subtitle: A Secretaria de Educação Básica do Ministério da Educação (SEB/MEC) disponibiliza informações acerca da situação da educação básica pública brasileira diante dessa nova realidade. 
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822138/theme9_v273a9.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559822138/theme9_v273a9.jpg
+image: http://undime-sc.org.br/wp-content/uploads/2021/04/painel-de-monitoramento-ok-500x333.png
+optimized_image: http://undime-sc.org.br/wp-content/uploads/2021/04/painel-de-monitoramento-ok-500x333.png
 category: life
 tags:
   - books

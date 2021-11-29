@@ -3,8 +3,8 @@ date: 2018-11-22 12:26:40
 layout: post
 title: Laboratório de Estudos Espaciais do Centro de Pesquisas Computacionais
 subtitle: Essa dashboard trata dos Números da Vacinação contra COVID-19 no Brasil. Nela encontramos dados sobre um gráfico interativo, além de dados como, quem recebeu somente uma dose, as duas, as três, dose única, doses distribuídas, doses disponibilizadas e doses administradas.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822138/theme9_v273a9.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559822138/theme9_v273a9.jpg
+image: https://s3.amazonaws.com/assets.dotlib.com/public/images/836e2248d990211d78644c4032680e81.png
+optimized_image: https://s3.amazonaws.com/assets.dotlib.com/public/images/836e2248d990211d78644c4032680e81.png
 category: life
 tags:
   - books

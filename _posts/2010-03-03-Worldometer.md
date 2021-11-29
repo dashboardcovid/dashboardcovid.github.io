@@ -3,8 +3,8 @@ date: 2018-11-22 12:26:40
 layout: post
 title: Worldometer
 subtitle: São trabalhados dados internacionais, apresentando casos confirmados, mortes e recuperados, casos abertos, casos fechados, casos relatados e mortes por país ou território, além de atualizações de novos casos e mortes nos países.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559822138/theme9_v273a9.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559822138/theme9_v273a9.jpg
+image: https://pbs.twimg.com/profile_images/692017015872167940/1fnJPzxM_400x400.png
+optimized_image: https://pbs.twimg.com/profile_images/692017015872167940/1fnJPzxM_400x400.png
 category: life
 tags:
   - books

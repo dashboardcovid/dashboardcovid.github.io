@@ -3,8 +3,8 @@ date: 2018-11-22 12:26:40
 layout: post
 title: Progressão da epidemia diante de intervenções 
 subtitle: Esta dashboards nos dá a possibilidade de explorar os diferentes parâmetros que governam a progressão, identificar como esses parâmetros afetam o número de infectados ao longo do tempo, além de ser possível fazer simulações
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822138/theme9_v273a9.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559822138/theme9_v273a9.jpg
+image: https://www.alass.org/wp-content/uploads/COVID-19-2.jpg
+optimized_image: https://www.alass.org/wp-content/uploads/COVID-19-2.jpg
 category: life
 tags:
   - books

@@ -1,10 +1,10 @@
 ---
 date: 2018-11-22 12:26:40
 layout: post
-title: Painel Interativo de MG
-subtitle: Trata-se de uma dashboard a nível estadual, onde são disponibilizados dados referentes à Minas Gerais.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822138/theme9_v273a9.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559822138/theme9_v273a9.jpg
+title: COVID-19 ANALYTICS
+subtitle: Esta ferramenta, a nível nacional, nos permite acompanhar previsões sobre a COVID-19 referente a um futuro próximo de 14 dias. Nela, podemos acompanhar a evolução dos casos e mortes. 
+image: https://cdn.business2community.com/wp-content/uploads/2020/08/Courtesy-of-ACM-Capital-Partners-LO.jpg
+optimized_image: https://cdn.business2community.com/wp-content/uploads/2020/08/Courtesy-of-ACM-Capital-Partners-LO.jpg
 category: life
 tags:
   - books

@@ -3,8 +3,8 @@ date: 2018-11-22 12:26:40
 layout: post
 title: COVID-19 Data Explorer:Global Humanitarian Operations
 subtitle: Essa dashboard é a nível internacional.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822138/theme9_v273a9.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559822138/theme9_v273a9.jpg
+image: https://data.humdata.org/visualization/covid19-humanitarian-operations/assets/logo-ocha-blue.png
+optimized_image:https://data.humdata.org/visualization/covid19-humanitarian-operations/assets/logo-ocha-blue.png
 category: life
 tags:
   - books
