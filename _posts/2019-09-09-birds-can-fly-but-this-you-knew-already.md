@@ -3,8 +3,8 @@ date: 2021-11-25 12:26:40
 layout: post
 title: Brazil WHO Coronavirus (COVID-19) Dashboard
 subtitle: tese
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559825145/theme16_o0seet.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559825145/theme16_o0seet.jpg
+image: https://leblogdoperol.com/wp-content/uploads/2021/04/0a009090ba_50175222_variant-bresilen-covid-coronavirus-e1618879339188-1024x682.jpeg
+optimized_image: https://leblogdoperol.com/wp-content/uploads/2021/04/0a009090ba_50175222_variant-bresilen-covid-coronavirus-e1618879339188-1024x682.jpeg
 category: life
 tags:
   - life
