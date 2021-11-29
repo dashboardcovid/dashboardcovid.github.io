@@ -19,6 +19,10 @@ Perfil demográfico;
 Perfil gráfico;
 Ocupação Leitos de UTI; 
 Ocupação leitos de enfermaria;
+Ocupação Leitos pediátricos; 
+Variantes; 
+Georreferenciamento 
+
  [AQUI](https://coronavirus.saude.mg.gov.br/painel).
 
 ![placeholder](https://www.passos.mg.gov.br/imgeditor/Covid%20Cabe%C3%A7alho.png "Large example image")
