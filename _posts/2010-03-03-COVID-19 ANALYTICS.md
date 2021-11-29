@@ -3,8 +3,8 @@ date: 2018-11-22 12:26:40
 layout: post
 title: COVID-19 ANALYTICS
 subtitle: Esta ferramenta, a nível nacional, nos permite acompanhar previsões sobre a COVID-19 referente a um futuro próximo de 14 dias. Nela, podemos acompanhar a evolução dos casos e mortes. 
-image: https://cdn.business2community.com/wp-content/uploads/2020/08/Courtesy-of-ACM-Capital-Partners-LO.jpg
-optimized_image: https://cdn.business2community.com/wp-content/uploads/2020/08/Courtesy-of-ACM-Capital-Partners-LO.jpg
+image: https://covid19analytics.com.br/assets/images/covid19-analytics-card.png
+optimized_image: https://covid19analytics.com.br/assets/images/covid19-analytics-card.png
 category: Subnotificação
 tags:
   - Subnotificação
