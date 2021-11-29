@@ -3,8 +3,8 @@ date: 2018-11-22 12:26:40
 layout: post
 title: CONASS - Conselho Nacional de Secretários da SaúdeS
 subtitle: Trata-se de um painel  a nível nacional, disponibilizado pelo CONASS. Assim como outros, são apresentados dados referentes à contaminação, mortalidade, entre outros. Vale ressaltar que os estados são apresentados de forma separada, com suas respectivas informações referentes à pandemia.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822138/theme9_v273a9.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559822138/theme9_v273a9.jpg
+image: https://www.conass.org.br/wp-content/themes/conass/img/logo.png
+optimized_image: https://www.conass.org.br/wp-content/themes/conass/img/logo.png
 category: life
 tags:
   - books
