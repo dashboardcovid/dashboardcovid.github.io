@@ -2,8 +2,7 @@
 date: 2018-02-03 12:26:40
 layout: post
 title: Fiocruz
-subtitle: São apresentados dados nacionais disponibilizados pela Fiocruz. Seguem algum dos dados que são  apresentados:
-Painéis,Casos e óbitos,Vacinação,Evolução,Velocidade,População em risco,Medidas de combate,Pílulas e notas técnicas;
+subtitle: São apresentados dados nacionais disponibilizados pela Fiocruz.
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821648/theme8_knvabs.jpg
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821648/theme8_knvabs.jpg
 category: tutorial
